@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="index2 - task">
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index5.html" afterDir="false" />
+    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="index2 - tasks, html, css">
+      <change afterPath="$PROJECT_DIR$/index6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717521626958</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index2 - tasks, html, css">
+      <option name="closed" value="true" />
+      <created>1717524895835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717524895835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html" />
     <MESSAGE value="html - lorem ipsum" />
     <MESSAGE value="index2 - task" />
-    <option name="LAST_COMMIT_MESSAGE" value="index2 - task" />
+    <MESSAGE value="index2 - tasks, html, css" />
+    <option name="LAST_COMMIT_MESSAGE" value="index2 - tasks, html, css" />
   </component>
 </project>
