@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="add file index_HW - only body style">
+    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="add file index_HW - only body style - it works">
+      <change afterPath="$PROJECT_DIR$/index_HW2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/index9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_HW.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_HW.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717961736228</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add file index_HW - only body style - it works">
+      <option name="closed" value="true" />
+      <created>1717963908884</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717963908884</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +201,7 @@
     <MESSAGE value="add file index9" />
     <MESSAGE value="add file index_HW" />
     <MESSAGE value="add file index_HW - only body style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file index_HW - only body style" />
+    <MESSAGE value="add file index_HW - only body style - it works" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file index_HW - only body style - it works" />
   </component>
 </project>
