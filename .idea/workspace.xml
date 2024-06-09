@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="index 3-6 - tasks...">
+    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="add file index7 - training area">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/index7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717834997452</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="index 3-6 - tasks...">
+      <option name="closed" value="true" />
+      <created>1717937168830</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717937168830</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add file index7 - training area">
+      <option name="closed" value="true" />
+      <created>1717937216350</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717937216350</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +146,7 @@
     <MESSAGE value="index2 - tasks, html, css" />
     <MESSAGE value="index 3-6 - tasks" />
     <MESSAGE value="index 3-6 - tasks..." />
-    <option name="LAST_COMMIT_MESSAGE" value="index 3-6 - tasks..." />
+    <MESSAGE value="add file index7 - training area" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file index7 - training area" />
   </component>
 </project>
