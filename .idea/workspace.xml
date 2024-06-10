@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="hw2 - edit HW1 and  HW2...">
+    <list default="true" id="f54f28a2-4224-4dee-9bd6-e5312f546153" name="Changes" comment="HW2 it works">
+      <change afterPath="$PROJECT_DIR$/HW3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_HW3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_HW.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_HW.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_HW2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_HW2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718024145153</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HW2 it works">
+      <option name="closed" value="true" />
+      <created>1718024765870</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718024765870</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +246,7 @@
     <MESSAGE value="hw2 - edit" />
     <MESSAGE value="hw2 - edit HW1 and  HW2" />
     <MESSAGE value="hw2 - edit HW1 and  HW2..." />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2 - edit HW1 and  HW2..." />
+    <MESSAGE value="HW2 it works" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 it works" />
   </component>
 </project>

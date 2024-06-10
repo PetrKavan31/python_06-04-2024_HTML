@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4e4e4;
+}
+h1 {
+    color: #484c87;
+    text-align: center;
+}
+h2 {
+    color: grey;
+}
+h5 {
+    font-style: italic;
+    font-size: 11px;
+}
